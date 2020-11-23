@@ -1,0 +1,4 @@
+tasks:
+  - name: chay lenh show version
+    ios_command;
+      commands: show version
